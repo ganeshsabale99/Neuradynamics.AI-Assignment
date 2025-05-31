@@ -66,5 +66,4 @@ This is a frontend assignment project for a **Frontend Developer Hiring** proces
 📧 [sabaleganesh99@gmail.com](mailto:sabaleganesh99@gmail.com)  
 📍 Pune, Maharashtra  
 💼 Frontend Developer (React.js)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ganeshsabale99/)
 
