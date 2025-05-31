@@ -14,10 +14,10 @@ This is a frontend assignment project for a **Frontend Developer Hiring** proces
 
 ## 📸 Screenshot
 
-![Product Listing Screenshot](./screenshots/1.png)
-![Product Listing Screenshot](./screenshots/2.png)
-![Product Listing Screenshot](./screenshots/3.png)
-![Product Listing Screenshot](./screenshots/4.png)
+![Product Listing Screenshot](./screenshots/1.jpeg)
+![Product Listing Screenshot](./screenshots/2.jpeg)
+![Product Listing Screenshot](./screenshots/3.jpeg)
+![Product Listing Screenshot](./screenshots/4.jpeg)
 
 > *(Add more screenshots as needed. Create a `screenshots/` folder and put your images there.)*
 
