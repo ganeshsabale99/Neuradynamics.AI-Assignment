@@ -19,7 +19,6 @@ This is a frontend assignment project for a **Frontend Developer Hiring** proces
 ![Product Listing Screenshot](./screenshots/3.jpeg)
 ![Product Listing Screenshot](./screenshots/4.jpeg)
 
-> *(Add more screenshots as needed. Create a `screenshots/` folder and put your images there.)*
 
 ---
 
